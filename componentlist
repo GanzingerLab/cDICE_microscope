@@ -1,0 +1,47 @@
+Component list cDICE imaging setup
+  Camera
+    * Chronos 2.1 HD, Kron Technologies
+    * Photron FASTCAM SA4
+  Camera holder
+    * Chronos 2.1 HD
+      * CP02/M, Thorlabs
+      * Custom 3D printed holder (see AMOLF_PCI_Chronos2.1HD_rotatingmount.pdf)
+    * Photron FASTCAM SA4
+      * LCRM2/M, Thorlabs 
+      * LCP33/M, Thorlabs
+      * Custom holder (see AMOLF_PCI_PhotronFASTCAMSA4_parts.pdf)
+  Lens
+    * AC254-200-A-ML, Thorlabs 
+  Lens mount
+    * CXY1, Thorlabs 
+  Ring for objective
+    * SM1A10, Thorlabs
+  Objective
+    * Nikon Plan Fluor 4x/0.13 PhL DL 
+    * Nikon Plan Fluor 10x/0.30 [infinity]/0.17 WD 16
+  LED
+    * Luxeon V2, 315lm@700mA
+  Light source 
+    * Lumencor light engine, SOLA 6-LCR-SB
+  Z stage objective
+    * CT1, Thorlabs 
+  X/Y stage
+    * PT1, Thorlabs
+  Cage system/rods
+    * ER3, Thorlabs 
+  Construction rail
+    * XT66-750, Thorlabs 
+  Snap-on cage clamp
+    * CPMA2/M, Thorlabs
+  Clamp for rail
+    * XT66C4, Thorlabs
+  Mount for rail to breadboard
+    * XT66P1, Thorlabs 
+  Post holder
+    * PH75/M, Thorlabs 
+  Optical post
+    * TR75/M, Thorlabs 
+  Breadboard
+    * MB1030/M, Thorlabs 
+  Table clamps
+    * CL5A-P5, Thorlabs 
